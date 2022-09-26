@@ -1,2 +1,2 @@
 # project
-for alice and adeline
+for alice and hsuan
